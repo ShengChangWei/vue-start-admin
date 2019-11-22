@@ -1,0 +1,40 @@
+// sidebar
+
+// 一次菜单
+$menuBg:rgba(0, 0, 0, 0); // 设置透明度，显示背景图片
+$menuText:#fff;
+$menuHover:#0064f2;
+$menuActiveText:#fff;
+$menuActivebgc: #0064f2;
+// 二级菜单
+$subMenuBg:#1571f4;
+$subMenuHover:#0064f2;
+$subMenuActiveText: #fff; 
+
+$logobg: #1469ea;
+$sideBarWidth: 210px;
+
+// 按钮
+$primary: #2c7ff7;
+$primaryHover: #1469ea;
+$success: #24de73;
+$info: #d4d4d4;
+$warning: #fd9b0d;
+$danger: #ff400c;
+
+
+// 表格
+
+$formTitle: #d2e3ff;
+
+
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+}

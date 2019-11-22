@@ -1,0 +1,262 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>IconFont</title>
+    <link rel="stylesheet" href="demo.css">
+    <link rel="stylesheet" href="iconfont.css">
+</head>
+<body>
+    <div class="main markdown">
+        <h1>IconFont 图标</h1>
+        <ul class="icon_lists clear">
+            
+                <li>
+                <i class="icon Eicons hdrr-mima"></i>
+                    <div class="name">密码</div>
+                    <div class="fontclass">.hdrr-mima</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-iconfontzuidahua"></i>
+                    <div class="name">最大化</div>
+                    <div class="fontclass">.hdrr-iconfontzuidahua</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-yonghuming"></i>
+                    <div class="name">用户名</div>
+                    <div class="fontclass">.hdrr-yonghuming</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-guanbi"></i>
+                    <div class="name">关闭</div>
+                    <div class="fontclass">.hdrr-guanbi</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-daochu"></i>
+                    <div class="name">导出</div>
+                    <div class="fontclass">.hdrr-daochu</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-jibenxinxi"></i>
+                    <div class="name">基本信息</div>
+                    <div class="fontclass">.hdrr-jibenxinxi</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-shishijiance"></i>
+                    <div class="name">实时监测</div>
+                    <div class="fontclass">.hdrr-shishijiance</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-weibiaoti-"></i>
+                    <div class="name">晴</div>
+                    <div class="fontclass">.hdrr-weibiaoti-</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-dingweiweizhizuobiaomianxing"></i>
+                    <div class="name">定位 位置 坐标 面性</div>
+                    <div class="fontclass">.hdrr-dingweiweizhizuobiaomianxing</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-xitongguanli"></i>
+                    <div class="name">系统管理</div>
+                    <div class="fontclass">.hdrr-xitongguanli</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-riqi"></i>
+                    <div class="name">日期</div>
+                    <div class="fontclass">.hdrr-riqi</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-lingxingxiaoyu"></i>
+                    <div class="name">零星小雨</div>
+                    <div class="fontclass">.hdrr-lingxingxiaoyu</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-xiaoyu1"></i>
+                    <div class="name">小雨</div>
+                    <div class="fontclass">.hdrr-xiaoyu1</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-zhongyu1"></i>
+                    <div class="name">中雨</div>
+                    <div class="fontclass">.hdrr-zhongyu1</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-dayu1"></i>
+                    <div class="name">大雨</div>
+                    <div class="fontclass">.hdrr-dayu1</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-baoyu1"></i>
+                    <div class="name">暴雨</div>
+                    <div class="fontclass">.hdrr-baoyu1</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-dabaoyu"></i>
+                    <div class="name">大暴雨</div>
+                    <div class="fontclass">.hdrr-dabaoyu</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-tedabaoyu"></i>
+                    <div class="name">特大暴雨</div>
+                    <div class="fontclass">.hdrr-tedabaoyu</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-yuliangjiance"></i>
+                    <div class="name">雨量监测</div>
+                    <div class="fontclass">.hdrr-yuliangjiance</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-tubiao"></i>
+                    <div class="name">图表</div>
+                    <div class="fontclass">.hdrr-tubiao</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-bangzhu"></i>
+                    <div class="name">帮助</div>
+                    <div class="fontclass">.hdrr-bangzhu</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-zhongxin"></i>
+                    <div class="name">重新</div>
+                    <div class="fontclass">.hdrr-zhongxin</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-ditu"></i>
+                    <div class="name">地图</div>
+                    <div class="fontclass">.hdrr-ditu</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-chanliufenxi"></i>
+                    <div class="name">产流分析</div>
+                    <div class="fontclass">.hdrr-chanliufenxi</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-moxingfanganzhizuo"></i>
+                    <div class="name">模型方案制作</div>
+                    <div class="fontclass">.hdrr-moxingfanganzhizuo</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-zonghexinxichaxun"></i>
+                    <div class="name">综合信息查询</div>
+                    <div class="fontclass">.hdrr-zonghexinxichaxun</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-shuipinghengfenxi"></i>
+                    <div class="name">水平衡分析</div>
+                    <div class="fontclass">.hdrr-shuipinghengfenxi</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-shuiziyuanpingjia"></i>
+                    <div class="name">水资源评价</div>
+                    <div class="fontclass">.hdrr-shuiziyuanpingjia</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-shishixinxifenxi"></i>
+                    <div class="name">实时信息分析</div>
+                    <div class="fontclass">.hdrr-shishixinxifenxi</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-xinxifabu"></i>
+                    <div class="name">信息发布</div>
+                    <div class="fontclass">.hdrr-xinxifabu</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-fanganshijianqujian"></i>
+                    <div class="name">方案时间区间</div>
+                    <div class="fontclass">.hdrr-fanganshijianqujian</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-bianjietiaojian"></i>
+                    <div class="name">边界条件</div>
+                    <div class="fontclass">.hdrr-bianjietiaojian</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-zhengfatiaojian"></i>
+                    <div class="name">蒸发条件</div>
+                    <div class="fontclass">.hdrr-zhengfatiaojian</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-jiangyutiaojian"></i>
+                    <div class="name">降雨条件</div>
+                    <div class="fontclass">.hdrr-jiangyutiaojian</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-fanganjibenxinxi"></i>
+                    <div class="name">方案基本信息</div>
+                    <div class="fontclass">.hdrr-fanganjibenxinxi</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-fanganjisuanzhong"></i>
+                    <div class="name">方案计算中</div>
+                    <div class="fontclass">.hdrr-fanganjisuanzhong</div>
+                </li>
+            
+                <li>
+                <i class="icon Eicons hdrr-jiaruduibi"></i>
+                    <div class="name">加入对比</div>
+                    <div class="fontclass">.hdrr-jiaruduibi</div>
+                </li>
+            
+        </ul>
+
+        <h2 id="font-class-">font-class引用</h2>
+        <hr>
+
+        <p>font-class是unicode使用方式的一种变种，主要是解决unicode书写不直观，语意不明确的问题。</p>
+        <p>与unicode使用方式相比，具有如下特点：</p>
+        <ul>
+        <li>兼容性良好，支持ie8+，及所有现代浏览器。</li>
+        <li>相比于unicode语意明确，书写更直观。可以很容易分辨这个icon是什么。</li>
+        <li>因为使用class来定义图标，所以当要替换图标时，只需要修改class里面的unicode引用。</li>
+        <li>不过因为本质上还是使用的字体，所以多色图标还是不支持的。</li>
+        </ul>
+        <p>使用步骤如下：</p>
+        <h3 id="-fontclass-">第一步：引入项目下面生成的fontclass代码：</h3>
+
+
+        <pre><code class="lang-js hljs javascript"><span class="hljs-comment">&lt;link rel="stylesheet" type="text/css" href="./iconfont.css"&gt;</span></code></pre>
+        <h3 id="-">第二步：挑选相应图标并获取类名，应用于页面：</h3>
+        <pre><code class="lang-css hljs">&lt;<span class="hljs-selector-tag">i</span> <span class="hljs-selector-tag">class</span>="<span class="hljs-selector-tag">Eicons</span> <span class="hljs-selector-tag">hdrr-xxx</span>"&gt;&lt;/<span class="hljs-selector-tag">i</span>&gt;</code></pre>
+        <blockquote>
+        <p>"Eicons"是你项目下的font-family。可以通过编辑项目查看，默认是"iconfont"。</p>
+        </blockquote>
+    </div>
+</body>
+</html>
